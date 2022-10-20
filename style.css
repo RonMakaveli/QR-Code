@@ -10,7 +10,7 @@ body{
     background-color: #d6e1f0;
 }
 
-section{
+main{
     width: 100vw;
     height: 100vh;
     display: grid;
